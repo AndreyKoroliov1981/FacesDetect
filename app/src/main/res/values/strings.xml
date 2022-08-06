@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Task3DetectFaces</string>
+    <string name="switch_camera">Поменять камеру</string>
+</resources>
